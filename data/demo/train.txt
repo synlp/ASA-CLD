@@ -1,0 +1,30 @@
+i charge it at night and skip taking the $T$ with me because of the good battery life .
+cord
+0
+i charge it at night and skip taking the cord with me because of the good $T$ .
+battery life
+1
+the tech guy then said the $T$ does not do 1-to-1 exchange and i have to direct my concern to the `` sales '' team , which is the retail shop which i bought my netbook from .
+service center
+-1
+the tech guy then said the service center does not do 1-to-1 exchange and i have to direct my concern to the $T$ , which is the retail shop which i bought my netbook from .
+`` sales '' team
+-1
+the $T$ then said the service center does not do 1-to-1 exchange and i have to direct my concern to the `` sales '' team , which is the retail shop which i bought my netbook from .
+tech guy
+0
+it is of high $T$ , has a killer gui , is extremely stable , is highly expandable , is bundled with lots of very good applications , is easy to use , and is absolutely gorgeous .
+quality
+1
+it is of high quality , has a killer $T$ , is extremely stable , is highly expandable , is bundled with lots of very good applications , is easy to use , and is absolutely gorgeous .
+gui
+1
+it is of high quality , has a killer gui , is extremely stable , is highly expandable , is bundled with lots of very good $T$ , is easy to use , and is absolutely gorgeous .
+applications
+1
+it is of high quality , has a killer gui , is extremely stable , is highly expandable , is bundled with lots of very good applications , is easy to $T$ , and is absolutely gorgeous .
+use
+1
+easy to $T$ and does not overheat as much as other laptops .
+start up
+1
