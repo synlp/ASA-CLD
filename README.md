@@ -4,6 +4,7 @@ This is the implementation for [Complementary Learning of Aspect Terms for Aspec
 
 ## Citation
 
+```
 @inproceedings{qin-etal-2022-complementary,
     title = "Complementary Learning of Aspect Terms for Aspect-based Sentiment Analysis",
     author = "Qin, Han and Tian, Yuanhe and Xia, Fei and Song, Yan",
@@ -13,6 +14,7 @@ This is the implementation for [Complementary Learning of Aspect Terms for Aspec
     address = "Marseille, France",
     pages = "7029--7039",
 }
+```
 
 # how to train the model
 
